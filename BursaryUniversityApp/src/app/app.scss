@@ -1,0 +1,25 @@
+button {
+  font-size: 20px;
+  padding: 14px 28px;
+  width: 100%;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background: linear-gradient(135deg, #007BFF, #0056b3);
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.15);
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: linear-gradient(135deg, #0056b3, #003f7f);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+button:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 6px rgba(0,0,0,0.15);
+}
