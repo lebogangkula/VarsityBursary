@@ -221,27 +221,7 @@ applicationDates: { [key: string]: string } = {
 
 
 //Requirements
-videoMap: { [key: string]: string } = {
-  "Cape Peninsula University of Technology": "",
-  "University of Cape Town": "",
-  "University of the Western Cape": "",
-  "Stellenbosch University": "",
-  "Durban University of Technology": "",
-  "University of KwaZulu-Natal": "",
-  "Nelson Mandela University": "",
-  "Rhodes University": "",
-  "University of Fort Hare": "",
-  "Walter Sisulu University": "",
-  "University of the Free State": "",
-  "Central University of Technology": "",
-  "University of Johannesburg": "",
-  "University of Pretoria": "",
-  "University of the Witwatersrand": "",
-  "Tshwane University of Technology": "",
-  "Sefako Makgatho Health Sciences University": "",
-  "Sol Plaatje University": ""
-  // Add the rest as needed
-};
+
 
 OrientationVid(varsity: string) {
     this.firstSub = true;
@@ -263,7 +243,7 @@ OrientationVid(varsity: string) {
   }
 
   RequirementVid(varsity: string) {
-    const videoId = this.videoMap[varsity];
+    const videoId = this.orientationMap[varsity];
     if (videoId) {
       const fullUrl = this.vasReqLink + videoId;
       // Sanitize the URL here as well
