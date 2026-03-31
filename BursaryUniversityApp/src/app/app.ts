@@ -86,9 +86,9 @@ applicationMap: { [key: string]: string } = {
 // Array of Orientation video IDs
 orientationMap: { [key: string]: string } = {
   // Western Cape
-  "Cape Peninsula University of Technology": "TbOZTImzg1Q",
-  "University of Cape Town": "EnQi_duKp9k",
-  "University of the Western Cape": "QzU9WO6Us7Q",
+  "Cape Peninsula University of Technology": "wrYrFud8t5Q",
+  "University of Cape Town": "B-yL90W83EE",
+  "University of the Western Cape": "PAL6p_xSV0Q",
   "Stellenbosch University": "x9KOA7i11MI",
 
   // KwaZulu-Natal
@@ -98,35 +98,35 @@ orientationMap: { [key: string]: string } = {
   "University of Zululand": "",
 
   // Eastern Cape
-  "Nelson Mandela University": "279IX84THr4",
-  "Rhodes University": "EWs33voYiAU",
-  "University of Fort Hare": "EwWE7F58Fk4",
-  "Walter Sisulu University": "NcdDevxDMmE",
+  "Nelson Mandela University": "J1SUN0tU1IA",
+  "Rhodes University": "WKaBokzYKJ8",
+  "University of Fort Hare": "T4fJGMgIU4k",
+  "Walter Sisulu University": "6SrsFSXlQag",
 
   // Free State
-  "University of the Free State": "qNGNyU9Osfc",
+  "University of the Free State": "WXH32qKrsDc",
   "Central University of Technology": "UyYwGUTS93k",
 
   // Gauteng
-  "University of Johannesburg": "z63l9jtSmJY",
-  "University of Pretoria": "PiO9rGXjjLs",
-  "University of the Witwatersrand": "",
-  "Tshwane University of Technology": "iWI3OtmyjKw",
-  "Sefako Makgatho Health Sciences University": "_qLeVy-a1NA",
-  "Vaal University of Technology": "wFl_bXSEFU8",
+  "University of Johannesburg": "b6vRZ6hlZZk",
+  "University of Pretoria": "FmqAw2HBatk",
+  "University of Witwatersrand": "MPF-PlDDRMM",
+  "Tshwane University of Technology": "_XKb3aRT_kI",
+  "Sefako Makgatho Health Sciences University": "Kcb4SJyRtyM",
+  "Vaal University of Technology": "GQZckHBhj3U",
 
   // North West
-  "North-West University": "MEDR_fkHBms",
+  "North-West University": "GQZckHBhj3U",
 
   // Limpopo
-  "University of Limpopo": "zwLz9Fcz3U0",
-  "University of Venda": "",
+  "University of Limpopo": "ks088Yh_B34",
+  "University of Venda": "uXyBotVdHk8",
 
   // Mpumalanga
-  "University of Mpumalanga": "JcQYo1VZt2o",
+  "University of Mpumalanga": "EbaNsc0j-Vk",
 
   // Northern Cape
-  "Sol Plaatje University": "E1iuKP80CiE"
+  "Sol Plaatje University": "1zgrxu6a1Uw"
 };
 
 bursaryMap: { [key: string]: string } = {
@@ -222,24 +222,24 @@ applicationDates: { [key: string]: string } = {
 
 //Requirements
 videoMap: { [key: string]: string } = {
-  "Cape Peninsula University of Technology": "egwo_87Sg7g",
-  "University of Cape Town": "40x8mPk0ryE",
-  "University of the Western Cape": "YIxpyzgTjS0",
-  "Stellenbosch University": "_Noq3cYe8U4",
-  "Durban University of Technology": "IsZGkEVWNCM",
-  "University of KwaZulu-Natal": "Tt4hTC1iDbo",
-  "Nelson Mandela University": "98WwW8p5n8c",
-  "Rhodes University": "_OR0_EJm2ww",
-  "University of Fort Hare": "F7YdiX4b0Vk",
-  "Walter Sisulu University": "3e2tIpUYYPk",
-  "University of the Free State": "TyYr2TAlTe0",
-  "Central University of Technology": "PYgBvMI75A0",
-  "University of Johannesburg": "0SPDII2yx3k",
-  "University of Pretoria": "XYKUXlMX_Ss",
-  "University of the Witwatersrand": "0SPDII2yx3k",
-  "Tshwane University of Technology": "ZH90fWwilLs",
-  "Sefako Makgatho Health Sciences University": "15Kqypkjck0",
-  "Sol Plaatje University": "QZo0ybaeCmk"
+  "Cape Peninsula University of Technology": "",
+  "University of Cape Town": "",
+  "University of the Western Cape": "",
+  "Stellenbosch University": "",
+  "Durban University of Technology": "",
+  "University of KwaZulu-Natal": "",
+  "Nelson Mandela University": "",
+  "Rhodes University": "",
+  "University of Fort Hare": "",
+  "Walter Sisulu University": "",
+  "University of the Free State": "",
+  "Central University of Technology": "",
+  "University of Johannesburg": "",
+  "University of Pretoria": "",
+  "University of the Witwatersrand": "",
+  "Tshwane University of Technology": "",
+  "Sefako Makgatho Health Sciences University": "",
+  "Sol Plaatje University": ""
   // Add the rest as needed
 };
 
